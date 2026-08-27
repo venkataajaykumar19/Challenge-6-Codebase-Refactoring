@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: dev-confessions-api
+    runtime: node
+    region: oregon
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 3000
+      - key: DELETE_SECRET
+        value: supersecret123
