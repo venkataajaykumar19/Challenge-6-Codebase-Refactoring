@@ -3,7 +3,7 @@
 An anonymous confession API for developers to share bugs, deadline stress, imposter syndrome, and vibe-coding sessions. Refactored into a clean MVC architecture following solid software engineering principles.
 
 ## Live Deployment
-https://huggingface.co/spaces/aajjaayy123/dev-confessions-api
+https://dev-confessions-api-r5xz.onrender.com
 
 ---
 
@@ -35,8 +35,8 @@ The Dev Confessions API was transformed from a single monolithic file (`app.js`)
 
 ## Refactoring Documentation
 
-- **Pre-Refactor Codebase Audit**: [`AUDIT.md`](AUDIT.md)
-- **Detailed Renames & Function Splits**: [`CHANGES.md`](CHANGES.md)
+- `AUDIT.md` — pre-refactor audit ([`AUDIT.md`](AUDIT.md))
+- `CHANGES.md` — refactoring decisions ([`CHANGES.md`](CHANGES.md))
 
 ---
 
