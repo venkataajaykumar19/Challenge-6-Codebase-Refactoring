@@ -47,4 +47,4 @@ Use this exact script to record your 2–3 minute video presentation.
 > Furthermore, hardcoded port numbers and secrets were extracted into `.env` loaded via `dotenv`, supported by `.env.example`."
 
 ### Section 5: Verification & Conclusion (2:40 - 3:00)
-> "To verify our changes, we ran automated end-to-end API tests across all 5 endpoints—confirming 100% backward compatibility for all success and error responses. The refactored application is live and publicly accessible on Hugging Face Spaces, and our open Pull Request is live on GitHub at `venkataajaykumar19/Challenge-6-Codebase-Refactoring/pull/1`. Thank you!"
+> "To verify our changes, we ran automated end-to-end API tests across all 5 endpoints—confirming 100% backward compatibility for all success and error responses. The refactored application is live and publicly accessible on Render at `https://dev-confessions-api-r5xz.onrender.com`, and our Pull Request is live on GitHub at `https://github.com/venkataajaykumar19/Challenge-6-Codebase-Refactoring/pull/1`. Thank you!"
